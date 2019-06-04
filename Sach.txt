@@ -1,0 +1,3 @@
+1A,Doraemon,Fujiko F Fujio,Kim Dong,16000,2010,200,20,2,2019,0
+2A,Conan,Bui Anh,Kim Dong,16000,2005,190,10,2,2019,3
+3A,Anh Van,Huynh Nhien,Nhut Anh,300000,2019,1000,12,3,2019,3
